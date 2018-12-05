@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "03fb313209961e90aa1b",
+    "revision": "31b1fadb6e789f612d3d",
     "url": "/lil-data-frontend/static/css/main.a639ab21.chunk.css"
   },
   {
-    "revision": "03fb313209961e90aa1b",
-    "url": "/lil-data-frontend/static/js/main.03fb3132.chunk.js"
+    "revision": "31b1fadb6e789f612d3d",
+    "url": "/lil-data-frontend/static/js/main.31b1fadb.chunk.js"
   },
   {
     "revision": "e6a1fd85850bd2d0c7d3",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/lil-data-frontend/static/js/runtime~main.3244e722.js"
   },
   {
-    "revision": "0b9bb62b803d286a1e8c211889c1ded6",
+    "revision": "aa83c6dfd33e7f5e81c240785d6a3c9a",
     "url": "/lil-data-frontend/index.html"
   }
 ];

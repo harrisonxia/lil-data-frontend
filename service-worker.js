@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/lil-data-frontend/precache-manifest.528f96313e7df7e13fcbc866353f88ff.js"
+  "/lil-data-frontend/precache-manifest.f3d0f3775a6344bfc117bff7662b4a1c.js"
 );
 
 workbox.clientsClaim();

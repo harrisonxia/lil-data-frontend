@@ -1,15 +1,15 @@
 {
   "main.css": "/lil-data-frontend/static/css/main.20e19e0a.chunk.css",
-  "main.js": "/lil-data-frontend/static/js/main.5e82dfcc.chunk.js",
-  "main.js.map": "/lil-data-frontend/static/js/main.5e82dfcc.chunk.js.map",
+  "main.js": "/lil-data-frontend/static/js/main.e992de2b.chunk.js",
+  "main.js.map": "/lil-data-frontend/static/js/main.e992de2b.chunk.js.map",
   "static/css/1.f81928e9.chunk.css": "/lil-data-frontend/static/css/1.f81928e9.chunk.css",
-  "static/js/1.58306db0.chunk.js": "/lil-data-frontend/static/js/1.58306db0.chunk.js",
-  "static/js/1.58306db0.chunk.js.map": "/lil-data-frontend/static/js/1.58306db0.chunk.js.map",
+  "static/js/1.6712fc74.chunk.js": "/lil-data-frontend/static/js/1.6712fc74.chunk.js",
+  "static/js/1.6712fc74.chunk.js.map": "/lil-data-frontend/static/js/1.6712fc74.chunk.js.map",
   "runtime~main.js": "/lil-data-frontend/static/js/runtime~main.3244e722.js",
   "runtime~main.js.map": "/lil-data-frontend/static/js/runtime~main.3244e722.js.map",
   "static/css/main.20e19e0a.chunk.css.map": "/lil-data-frontend/static/css/main.20e19e0a.chunk.css.map",
   "static/css/1.f81928e9.chunk.css.map": "/lil-data-frontend/static/css/1.f81928e9.chunk.css.map",
   "index.html": "/lil-data-frontend/index.html",
-  "precache-manifest.83d8eb06917e73ecc603a05e85b7efc3.js": "/lil-data-frontend/precache-manifest.83d8eb06917e73ecc603a05e85b7efc3.js",
+  "precache-manifest.beed13a126f7eb0fd83ce097dbf581c0.js": "/lil-data-frontend/precache-manifest.beed13a126f7eb0fd83ce097dbf581c0.js",
   "service-worker.js": "/lil-data-frontend/service-worker.js"
 }
